@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HY的主页",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "学号：2025303110085\n专业：土壤学\n兴趣：3D建模、数据分析\n\n\n\n\n\nSketchUp\nblender\nR语言"
+  },
+  {
+    "objectID": "about.html#关于我",
+    "href": "about.html#关于我",
+    "title": "关于我",
+    "section": "",
+    "text": "学号：2025303110085\n专业：土壤学\n兴趣：3D建模、数据分析"
+  },
+  {
+    "objectID": "about.html#技能",
+    "href": "about.html#技能",
+    "title": "关于我",
+    "section": "",
+    "text": "SketchUp\nblender\nR语言"
+  }
+]
