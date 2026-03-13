@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "欢迎来到建模大师的主页"
+  navbar:
+    left:
+      - href: index.qmd
+        text: 首页
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
